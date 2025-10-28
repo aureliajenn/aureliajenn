@@ -1,2 +1,8 @@
+<div align="center">
+<img src="img\hsy.jpg" width="25%" align="right" />
 <h3 align="left"> Hello! I'm Aurelia Jennifer Gunawan </h2>
-<!-- <img src="img\cat.jpg" width="25%" align="right" /> -->
+<br><br>
+<pre>
+ashdahdsa
+<pre>
+</div>
