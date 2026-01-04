@@ -1,5 +1,5 @@
 <div>
-<img src="image\hsy.jpg" width="25%" align="right" />
+<img src="image\buff-geto-plush.jpg" width="25%" align="right" />
 <h3 align="Center"> Hello! I'm Aurelia Jennifer Gunawan </h1>
 
 ___
