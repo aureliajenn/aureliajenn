@@ -10,7 +10,3 @@ ___
     👋 Feel free to reach out!
 </pre>
 </div>
-</div> <br> <a href="https://github.com/aureliajenn/github-readme-stats">
-  <img src="https://github-readme-stats-two-psi-53.vercel.app/api?username=aureliajenn&theme=nightowl&cache_seconds=86400&v=2026">
-  <img src="https://github-readme-stats-two-psi-53.vercel.app/api/top-langs/?username=aureliajenn&theme=nightowl&show_icons=true&layout=donut&cache_seconds=86400&v=2026">
-</a>
