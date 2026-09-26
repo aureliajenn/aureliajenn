@@ -1,3 +1,5 @@
+<div>
+
 <h3 align="Center"> Hello! I'm Aurelia Jennifer Gunawan </h3>
 
 ---
@@ -58,3 +60,11 @@
     <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aureliajenn/aureliajenn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aureliajenn/aureliajenn/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aureliajenn/aureliajenn/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
